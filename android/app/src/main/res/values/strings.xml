@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">mobile-app-vue</string>
+    <string name="title_activity_main">mobile-app-vue</string>
+    <string name="package_name">iqtidorapp.uz</string>
+    <string name="custom_url_scheme">iqtidorapp.uz</string>
+</resources>
